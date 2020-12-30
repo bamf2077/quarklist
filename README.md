@@ -1,2 +1,2 @@
-# adblock-n2olist
-A Adblock Plus subscription for chinese users.
+# QuarkList
+An Adblock Plus subscription for Chinese users.
