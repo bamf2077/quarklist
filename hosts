@@ -1,0 +1,82 @@
+# QuarkHosts
+# https://n2o.io/go?page=quarklist
+#
+# Copyright 2020 Francis Zhao <francis@n2o.io>
+# Released under the MIT license
+# https://n2o.io/license
+#
+# Date: 2020-12-30T10:00+07:00
+#
+
+# ---------- START ----------
+
+# localhost name resolution is handled within DNS itself.
+#   127.0.0.1        localhost
+#   ::1              localhost
+
+# ---------- ADVERTS UNIONS ----------
+
+0.0.0.0    s.lianmeng.360.cn
+0.0.0.0    api.so.lianmeng.360.cn
+0.0.0.0    atanx.alicdn.com
+0.0.0.0    cbjs.baidu.com
+0.0.0.0    cpro.baidu.com
+0.0.0.0    pos.baidu.com
+0.0.0.0    cpro.baidustatic.com
+0.0.0.0    dup.baidustatic.com
+0.0.0.0    ubmcmm.baidustatic.com
+0.0.0.0    www.biddingx.com
+0.0.0.0    g.doubleclick.net
+0.0.0.0    googleads.g.doubleclick.net
+0.0.0.0    stats.g.doubleclick.net
+0.0.0.0    pagead2.googlesyndication.com
+0.0.0.0    max.mediav.com
+0.0.0.0    static.mediav.com
+0.0.0.0    s.miwifi.com
+0.0.0.0    cdn.tanx.com
+0.0.0.0    click.tanx.com
+0.0.0.0    opehs.tanx.com
+0.0.0.0    p.tanx.com
+0.0.0.0    phs.tanx.com
+
+# ---------- ADVERTS ----------
+
+0.0.0.0    www.lx167.com
+0.0.0.0    g.ousns.net
+0.0.0.0    m.pwjhg.com
+0.0.0.0    miniye.xjts.cn
+
+# ---------- STATISTICS ----------
+
+0.0.0.0    hm.baidu.com
+0.0.0.0    static1.baifendian.com
+0.0.0.0    ssl-static1.baifendian.com
+0.0.0.0    w.cnzz.com
+0.0.0.0    www.google-analytics.com
+0.0.0.0    ssl.google-analytics.com
+
+# ---------- SCUMS ----------
+
+0.0.0.0    www.2345.com
+0.0.0.0    hao.360.cn
+0.0.0.0    v.6.cn
+0.0.0.0    www.duba.com
+0.0.0.0    hao.rising.cn
+0.0.0.0    home.xl9.xunlei.com
+0.0.0.0    misc.xl9.xunlei.com
+
+# ---------- MALWARES ----------
+
+0.0.0.0    download.2345.com
+0.0.0.0    360.cn
+0.0.0.0    chrome.360.cn
+0.0.0.0    down.360.cn
+0.0.0.0    sd.360.cn
+0.0.0.0    se.360.cn
+0.0.0.0    www.360.cn
+0.0.0.0    dl.360safe.com
+0.0.0.0    down.360safe.com
+0.0.0.0    www.360safe.com
+0.0.0.0    dl.ludashi.com
+
+# ---------- END ----------
