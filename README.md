@@ -1,2 +1,2 @@
 # QuarkList
-An ABP filter subscription for mainland Chinese users.
+An Adblock Plus filter subscription for mainland Chinese users.
