@@ -11,7 +11,7 @@
 ! Released under the MIT license
 ! https://n2o.io/license
 !
-! Date: 2020-12-30T20:00+07:00
+! Date: 2020-12-30T20:01+07:00
 !
 
 ! -------------------- Ads-Union -------------------- !
@@ -143,13 +143,13 @@ gjol.wangyuan.com##.buttom_nav
 gjol.wangyuan.com##.right_nav
 gjol.wangyuan.com##.login_box
 
-rrys2019.com###help
-rrys2019.com###globalNav1
-rrys2019.com###globalNav2
-rrys2019.com###indexNav1
-rrys2019.com##.chat-enterbox
-rrys2019.com##.couplet
-rrys2019.com##.lx167
+rrys2020.com###help
+rrys2020.com###globalNav1
+rrys2020.com###globalNav2
+rrys2020.com###indexNav1
+rrys2020.com##.chat-enterbox
+rrys2020.com##.couplet
+rrys2020.com##.lx167
 
 ! -------------------- URL Whitelists -------------------- !
 
