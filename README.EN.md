@@ -6,7 +6,6 @@
 ## Introduction
 
 Advertising filtering suite, includes [quarklist.txt](https://github.com/francis-zhao/quarklist/blob/master/quarklist.txt) & [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts).
-
 <br>
 
 ## Items
@@ -20,10 +19,7 @@ You can subscribe to the latest stable version via my [`personal site`](https://
 - [<kbd>Subscribe via personal site</kbd>](https://subscribe.adblockplus.org?location=https://n2o.io/p/quarklist/dist/quarklist.txt&title=QuarkList)
 - [<kbd>Subscribe via GitHub</kbd>](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/francis-zhao/quarklist/master/quarklist.txt&title=QuarkList)
 
-<br>
-
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts)
 
 The hosts file of Windows OS in `C:\Windows\System32\drivers\etc\hosts` can be replaced or appended with the content of this file. You can simply delete the file when it is not needed, no backup is required.
-
 <br>

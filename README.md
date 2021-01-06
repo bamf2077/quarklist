@@ -6,7 +6,6 @@
 ## 简介
 
 广告过滤套件，包含 [quarklist.txt](https://github.com/francis-zhao/quarklist/blob/master/quarklist.txt) 和 [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts)。
-
 <br>
 
 ## 项目
@@ -20,10 +19,7 @@
 - [<kbd>个人站点订阅</kbd>](https://subscribe.adblockplus.org?location=https://n2o.io/p/quarklist/dist/quarklist.txt&title=QuarkList)
 - [<kbd>GitHub 订阅</kbd>](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/francis-zhao/quarklist/master/quarklist.txt&title=QuarkList)
 
-<br>
-
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts)
 
 适用于 Windows 系统的 hosts 文件，可对 `C:\Windows\System32\drivers\etc\hosts` 文件内容直接替换或追加，不需要时直接删除该文件即可，无需备份。
-
 <br>
