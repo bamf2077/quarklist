@@ -1,13 +1,17 @@
 [Adblock Plus 3.10]
 ! Title: QuarkList
-! Version: 2.0.62
+! Version: 2.0.63
 ! Expires: 2 days (update frequency)
 ! Homepage: https://n2o.io/go?page=quarklist
 !
 ! 如遇过滤失效或误过滤项，请通过邮箱 francis@n2o.io 反馈，谢谢
 ! Please report any issues via e-mail francis@n2o.io.
 !
-! QuarkList, an ABP filter subscription for mainland Chinese users.
+! 一款针对中国大陆地区用户的广告过滤列表，适用于 Adblock Plus 和 AdBlock 浏览器扩展。
+! 本列表作为官方列表 EasyList China+EasyList 的补充，可以强化网页广告拦截效果。
+! An advertising filter for users in mainland China, applicable to
+! Adblock Plus and AdBlock browser extensions. As a supplement to official
+! EasyList China+EasyList, it can enhance capability of advertising filtering.
 ! Copyright 2021 Francis Zhao <francis@n2o.io>
 ! Released under the MIT license
 ! https://n2o.io/go?page=quarklist/LICENSE
