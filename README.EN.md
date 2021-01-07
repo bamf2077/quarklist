@@ -1,11 +1,12 @@
-[<kbd>简体中文</kbd>](https://github.com/francis-zhao/quarklist/blob/master/README.md "读我")
+[<kbd>简体中文</kbd>](https://github.com/francis-zhao/quarklist#readme "读我")
 [<kbd>`English`</kbd>](https://github.com/francis-zhao/quarklist/blob/master/README.EN.md "Readme")
 
 # QuarkList
 
 ## Introduction
 
-Advertising filtering suite, includes [quarklist.txt](https://github.com/francis-zhao/quarklist/blob/master/quarklist.txt) & [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts).
+Advertising filtering suite written according to [Adblock Plus filters syntax](https://help.eyeo.com/adblockplus/how-to-write-filters "How to write filters"), includes [quarklist.txt](#quarklisttxt) & [hosts](#hosts).
+
 <br>
 
 ## Items
@@ -22,4 +23,5 @@ You can subscribe to the latest stable version via my [`personal site`](https://
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts)
 
 The hosts file of Windows OS in `C:\Windows\System32\drivers\etc\hosts` can be replaced or appended with the content of this file. You can simply delete the file when it is not needed, no backup is required.
+
 <br>
