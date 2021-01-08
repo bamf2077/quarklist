@@ -17,8 +17,8 @@
 
 你可以通过我的`个人网站`或 `GitHub` 订阅使用最新的稳定版，所有源均同步更新，任选其一即可。
 
-- [<kbd>个人网站订阅</kbd>](https://subscribe.adblockplus.org?location=https://n2o.io/p/quarklist/dist/quarklist.txt&title=QuarkList)
-- [<kbd>GitHub 订阅</kbd>](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/francis-zhao/quarklist/master/quarklist.txt&title=QuarkList)
+- [<kbd>个人网站订阅</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Fp%2Fquarklist%2Fdist%2Fquarklist.txt&amp;title=QuarkList)
+- [<kbd>GitHub 订阅</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Ffrancis-zhao%2Fquarklist%2Fmaster%2Fquarklist.txt&amp;title=QuarkList")
 
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts)
 

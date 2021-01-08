@@ -17,8 +17,8 @@ An advertising filter for users in mainland China, applicable to [Adblock Plus](
 
 You can subscribe to the latest stable version via my `personal site` or `GitHub`. All sources are updated simultaneously, please choose one of them.
 
-- [<kbd>Subscribe via personal site</kbd>](https://subscribe.adblockplus.org?location=https://n2o.io/p/quarklist/dist/quarklist.txt&title=QuarkList)
-- [<kbd>Subscribe via GitHub</kbd>](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/francis-zhao/quarklist/master/quarklist.txt&title=QuarkList)
+- [<kbd>Subscribe via personal site</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Fp%2Fquarklist%2Fdist%2Fquarklist.txt&amp;title=QuarkList)
+- [<kbd>Subscribe via GitHub</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Ffrancis-zhao%2Fquarklist%2Fmaster%2Fquarklist.txt&amp;title=QuarkList")
 
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts)
 
