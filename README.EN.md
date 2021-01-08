@@ -1,5 +1,5 @@
 [<kbd>简体中文</kbd>](https://github.com/francis-zhao/quarklist#readme "读我")
-[<kbd>`English`</kbd>](https://github.com/francis-zhao/quarklist/blob/master/README.EN.md "Readme")
+[<kbd>**`* English *`**</kbd>](https://github.com/francis-zhao/quarklist/blob/master/README.EN.md "Readme")
 
 # QuarkList
 
@@ -25,3 +25,6 @@ You can subscribe to the latest stable version via my `personal site` or `GitHub
 The hosts file of Windows OS in `C:\Windows\System32\drivers\etc\hosts` can be replaced or appended with the content of this file. You can simply delete the file when it is not needed, no backup is required.
 
 <br>
+<br>
+
+[<kbd>Back to top</kbd>](# "Back to top")

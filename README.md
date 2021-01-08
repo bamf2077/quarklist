@@ -1,4 +1,4 @@
-[<kbd>`简体中文`</kbd>](https://github.com/francis-zhao/quarklist#readme "读我")
+[<kbd>**`* 简体中文 *`**</kbd>](https://github.com/francis-zhao/quarklist#readme "读我")
 [<kbd>English</kbd>](https://github.com/francis-zhao/quarklist/blob/master/README.EN.md "Readme")
 
 # QuarkList
@@ -25,3 +25,6 @@
 适用于 Windows 系统的 hosts 文件，可对 `C:\Windows\System32\drivers\etc\hosts` 文件内容直接替换或追加，不需要时直接删除该文件即可，无需备份。
 
 <br>
+<br>
+
+[<kbd>返回顶部</kbd>](# "返回顶部")
