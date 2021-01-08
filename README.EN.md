@@ -5,13 +5,13 @@
 
 ## Introduction
 
-Advertising filtering suite written according to [Adblock Plus filters syntax](https://help.eyeo.com/adblockplus/how-to-write-filters "How to write filters"), includes [quarklist.txt](#quarklisttxt) & [hosts](#hosts).
+Advertising filtering suite written according to [Adblock Plus filters syntax](https://help.eyeo.com/adblockplus/how-to-write-filters "How to write filters"), includes [quarklist.txt](#QuarkList) & [hosts](#hosts).
 
 <br>
 
 ## Items
 
-### [quarklist.txt](https://github.com/francis-zhao/quarklist/blob/master/quarklist.txt)
+### [QuarkList](https://github.com/francis-zhao/quarklist/blob/master/quarklist.txt)
 
 An advertising filter for users in mainland China, applicable to [Adblock Plus](https://adblockplus.org/ "Adblock Plus") and [AdBlock](https://getadblock.com/ "AdBlock") browser extensions. As a supplement to official EasyList China+EasyList, it can enhance capability of advertising filtering.
 

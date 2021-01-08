@@ -5,13 +5,13 @@
 
 ## 简介
 
-参照 [Adblock Plus filters 语法规则](https://help.eyeo.com/adblockplus/how-to-write-filters "如何编写过滤")编写的广告过滤套件，包含 [quarklist.txt](#quarklisttxt) 和 [hosts](#hosts)。
+参照 [Adblock Plus filters 语法规则](https://help.eyeo.com/adblockplus/how-to-write-filters "如何编写过滤")编写的广告过滤套件，包含 [QuarkList](#quarklist) 和 [hosts](#hosts)。
 
 <br>
 
 ## 项目
 
-### [quarklist.txt](https://github.com/francis-zhao/quarklist/blob/master/quarklist.txt)
+### [QuarkList](https://github.com/francis-zhao/quarklist/blob/master/quarklist.txt)
 
 一款针对中国大陆地区用户的广告过滤列表，适用于 [Adblock Plus](https://adblockplus.org/ "Adblock Plus") 和 [AdBlock](https://getadblock.com/ "AdBlock") 浏览器扩展。本列表作为官方列表 EasyList China+EasyList 的补充，可以强化网页广告拦截效果。
 
