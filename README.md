@@ -5,7 +5,7 @@
 
 ## 简介
 
-参照 [Adblock Plus filters 语法规则](https://help.eyeo.com/adblockplus/how-to-write-filters "如何编写过滤")编写的广告过滤套件，包含 [QuarkList](#quarklist) 和 [hosts](#hosts)。
+参照 [Adblock Plus filters 语法规则](https://help.eyeo.com/adblockplus/how-to-write-filters "如何编写过滤")编写的广告过滤套件，包含 [QuarkList](#quarklist-1) 和 [hosts](#hosts)。
 
 <br>
 
