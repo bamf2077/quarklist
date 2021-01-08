@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Advertising filtering suite written according to [Adblock Plus filters syntax](https://help.eyeo.com/adblockplus/how-to-write-filters "How to write filters"), includes [quarklist.txt](#QuarkList) & [hosts](#hosts).
+Advertising filtering suite written according to [Adblock Plus filters syntax](https://help.eyeo.com/adblockplus/how-to-write-filters "How to write filters"), includes [quarklist.txt](#quarklist) & [hosts](#hosts).
 
 <br>
 
