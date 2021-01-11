@@ -17,7 +17,9 @@ An advertising filter for users in mainland China, applicable to [Adblock Plus](
 
 Thanks to the CDN acceleration service provided by [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/francis-zhao/quarklist/badge)](https://www.jsdelivr.com/package/gh/francis-zhao/quarklist "jsDelivr"), you can directly click the subscription button below to use the latest version.
 
-[<kbd>Subscribe to QuarkList</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrancis-zhao%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList)
+- [<kbd>Subscribe via jsDelivr</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrancis-zhao%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList) (Preferred)
+
+- [<kbd>Subscribe via personal website</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Fp%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList)
 
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts)
 
