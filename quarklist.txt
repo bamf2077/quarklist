@@ -1,6 +1,6 @@
 [Adblock Plus 3.10]
 ! Title: QuarkList
-! Version: 2.0.63
+! Version: 2.0.64
 ! Expires: 2 days (update frequency)
 ! Homepage: https://n2o.io/go?page=quarklist
 !
