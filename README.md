@@ -15,10 +15,11 @@
 
 一款针对中国大陆地区用户的广告过滤列表，适用于 [Adblock Plus](https://adblockplus.org/ "Adblock Plus") 和 [AdBlock](https://getadblock.com/ "AdBlock") 浏览器扩展。本列表作为官方列表 EasyList China+EasyList 的补充，可以强化网页广告拦截效果。
 
-你可以通过我的`个人网站`或 `GitHub` 订阅使用最新的稳定版，所有源均同步更新，任选其一即可。
+订阅链接已切换到 [`jsDelivr`](https://www.jsdelivr.com/)，可以享受到 CDN 加速效果。
 
-- [<kbd>个人网站订阅</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Fp%2Fquarklist%2Fdist%2Fquarklist.txt&amp;title=QuarkList)
-- [<kbd>GitHub 订阅</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Ffrancis-zhao%2Fquarklist%2Fmaster%2Fquarklist.txt&amp;title=QuarkList")
+[![](https://data.jsdelivr.com/v1/package/gh/francis-zhao/quarklist/badge?style=rounded)](https://www.jsdelivr.com/package/gh/francis-zhao/quarklist)
+
+[<kbd>通过 jsDelivr CDN 订阅</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Fp%2Fquarklist%2Fdist%2Fquarklist.txt&amp;title=QuarkList)
 
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts)
 
