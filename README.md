@@ -17,7 +17,7 @@
 
 感谢 [![jsDelivr Badge](https://data.jsdelivr.com/v1/package/gh/francis-zhao/quarklist/badge?style=rounded)](https://www.jsdelivr.com/package/gh/francis-zhao/quarklist "jsDelivr") 提供的 CDN 加速服务，你可以直接点击下方的订阅按钮使用最新版本。
 
-[<kbd>订阅 QuarkList</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrancis-zhao%2Fquarklist%2Fquarklist.txt&amp;title=QuarkList)
+[<kbd>订阅 QuarkList</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrancis-zhao%2Fquarklist%2Fquarklist.txt&title=QuarkList)
 
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/hosts)
 
