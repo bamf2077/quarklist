@@ -15,7 +15,7 @@
 ! EasyList China+EasyList, it can enhance capability of advertising filtering.
 ! Copyright 2021 Francis Zhao <francis@n2o.io>
 ! Released under the MIT license
-! https://n2o.io/go?page=quarklist/LICENSE
+! https://github.com/francis-zhao/quarklist/blob/master/LICENSE
 !
 ! Date: 2021-01-07T05:00+07:00
 !
