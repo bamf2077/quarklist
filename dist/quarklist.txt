@@ -1,9 +1,9 @@
 [Adblock Plus 3.10]
 ! Title: QuarkList
-! Version: 2.0.64
+! Version: 2.0.65
 ! Expires: 2 days (update frequency)
 ! Homepage: https://n2o.io/go?page=quarklist
-! Redirect: https://cdn.jsdelivr.net/gh/francis-zhao/quarklist/quarklist.txt
+! Redirect: https://cdn.jsdelivr.net/gh/francis-zhao/quarklist/dist/quarklist.txt
 !
 ! 如遇过滤失效或误过滤项，请通过邮箱 francis@n2o.io 反馈，谢谢
 ! Please report any issues via e-mail francis@n2o.io.
@@ -17,7 +17,7 @@
 ! Released under the MIT license
 ! https://github.com/francis-zhao/quarklist/blob/master/LICENSE
 !
-! Date: 2021-01-07T05:00+07:00
+! Date: 2021-01-12T06:00+07:00
 !
 
 ! -------------------- Ads-Union -------------------- !
@@ -180,13 +180,12 @@ gjol.wangyuan.com##.login_box
 
 ! -------------------- Do Not Track -------------------- !
 
-||hm.baidu.com^$third-party,domain=~baidu.com
+||hm.baidu.com^$third-party,domain=~baidu.com|n2o.io
 ||baifendian.com^$third-party
 ||cnzz.com^$third-party
 ||google-analytics.com^$third-party
 ||googletagmanager.com^$third-party
 ||histats.com^$third-party
-||tajs.qq.com^$third-party,domain=~qq.com|~n2o.io
 ||tjqonline.cn^
 
 ! -------------------- END -------------------- !

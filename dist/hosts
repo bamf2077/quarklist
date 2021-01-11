@@ -1,11 +1,11 @@
-# QuarkHosts v2.0.61
+# QuarkHosts v2.0.65
 # https://n2o.io/go?page=quarklist
 #
 # Copyright 2021 Francis Zhao <francis@n2o.io>
 # Released under the MIT license
 # https://github.com/francis-zhao/quarklist/blob/master/LICENSE
 #
-# Date: 2021-01-06T08:00+07:00
+# Date: 2021-01-12T06:00+07:00
 #
 
 # ---------- START ----------
@@ -77,6 +77,5 @@
 0.0.0.0    dl.360safe.com
 0.0.0.0    down.360safe.com
 0.0.0.0    www.360safe.com
-0.0.0.0    dl.ludashi.com
 
 # ---------- END ----------
