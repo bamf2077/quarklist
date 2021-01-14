@@ -1,8 +1,9 @@
 [Adblock Plus 3.10]
 ! Title: QuarkList
-! Version: 2.0.65
+! Version: 2.0.66
 ! Expires: 2 days (update frequency)
 ! Homepage: https://n2o.io/go?page=quarklist
+! Redirect: https://cdn.jsdelivr.net/gh/francis-zhao/quarklist/dist/quarklist.txt
 !
 ! 如遇过滤失效或误过滤项，请通过邮箱 francis@n2o.io 反馈，谢谢
 ! Please report any issues via e-mail francis@n2o.io.
@@ -16,7 +17,7 @@
 ! Released under the MIT license
 ! https://github.com/francis-zhao/quarklist/blob/master/LICENSE
 !
-! Date: 2021-01-12T06:00+07:00
+! Date: 2021-01-14T08:00+07:00
 !
 
 ! -------------------- Ads-Union -------------------- !
@@ -142,13 +143,16 @@ jiemian.com###ad_header_top
 jiemian.com##.cnzz-ads
 jiemian.com##.jm-app
 
-rrys2020.com###help
 rrys2020.com###globalNav1
 rrys2020.com###globalNav2
+rrys2020.com###help
 rrys2020.com###indexNav1
 rrys2020.com##.chat-enterbox
 rrys2020.com##.couplet
+rrys2020.com##.footer a[href="http://www.yyets.com/donate-us.html"]
+rrys2020.com##.key-result a[href="http://www.yyets.com/jz"]
 rrys2020.com##.lx167
+rrys2020.com##.zzhu
 
 www.so.com###footer a[href="http://mse.360.cn"]
 www.so.com###footer a[href="http://mse.360.cn"] + span
