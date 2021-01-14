@@ -1,6 +1,6 @@
 [Adblock Plus 3.10]
 ! Title: QuarkList
-! Version: 2.0.66
+! Version: 2.0.67
 ! Expires: 2 days (update frequency)
 ! Homepage: https://n2o.io/go?page=quarklist
 !
@@ -89,8 +89,8 @@
 ||sina.com.cn/litong/
 ||tjs.sjs.sinajs.cn^
 ||miniye.xjts.cn^
-||rrys2019.com/public/hotkeyword
-||tu.jstucdn.com/g3/tool30.js
+||jstucdn.com/g3/
+||jstucdn.com/js/vr
 
 ! -------------------- General Element Hiding -------------------- !
 
@@ -165,8 +165,7 @@ gjol.wangyuan.com##.login_box
 
 ! -------------------- URL Whitelists -------------------- !
 
-@@||n2o.io^
-@@||servr.cn^
+@@||n2o.io^$document
 
 ! -------------------- Malware Blocking -------------------- !
 
@@ -182,7 +181,7 @@ gjol.wangyuan.com##.login_box
 
 ! -------------------- Do Not Track -------------------- !
 
-||hm.baidu.com^$third-party,domain=~baidu.com|n2o.io
+||hm.baidu.com^$third-party,domain=~baidu.com
 ||baifendian.com^$third-party
 ||cnzz.com^$third-party
 ||google-analytics.com^$third-party
