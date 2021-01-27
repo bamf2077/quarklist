@@ -15,7 +15,7 @@ Advertising filtering suite written according to [Adblock Plus filters syntax](h
 
 An advertising filter for users in mainland China, applicable to [Adblock Plus](https://adblockplus.org/ "Adblock Plus") and [AdBlock](https://getadblock.com/ "AdBlock") browser extensions. As a supplement to official EasyList China+EasyList, it can enhance capability of advertising filtering.
 
-Thanks to the CDN acceleration service provided by [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/francis-zhao/quarklist/badge)](https://www.jsdelivr.com/package/gh/francis-zhao/quarklist "jsDelivr"), you can directly click the subscription button below to use the latest version.
+Thanks to the CDN acceleration service provided by [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/francis-zhao/quarklist/badge)](https://www.jsdelivr.com/package/gh/francis-zhao/quarklist "jsDelivr - A free, fast, and reliable CDN for open source"), you can directly click the subscription button below to use the latest version.
 
 - [<kbd>Subscribe via jsDelivr</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrancis-zhao%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList) (Preferred)
 
