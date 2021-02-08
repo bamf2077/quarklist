@@ -19,7 +19,7 @@
 
 - [<kbd>通过 jsDelivr 订阅</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrancis-zhao%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList) (首选)
 
-- [<kbd>通过 个人网站 订阅</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Fp%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList)
+- [<kbd>通过 个人网站 订阅</kbd>](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Flab%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList)
 
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/dist/hosts)
 
