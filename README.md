@@ -5,7 +5,7 @@
 
 ## 简介
 
-参照 [Adblock Plus filters 语法规则](https://help.eyeo.com/adblockplus/how-to-write-filters "如何编写过滤")编写的广告过滤套件，包含 [QuarkList](#quarklist-1) 和 [hosts](#hosts)。
+参照 <a href="https://help.eyeo.com/adblockplus/how-to-write-filters" target="_blank" title="如何编写过滤">Adblock Plus 过滤语法规则</a>编写的广告过滤套件，包含 [QuarkList](#quarklist-1) 和 [hosts](#hosts)。
 
 <br>
 
@@ -13,7 +13,7 @@
 
 ### [QuarkList](https://github.com/francis-zhao/quarklist/blob/master/dist/quarklist.txt)
 
-一款针对中国大陆地区用户的广告过滤列表，适用于 [Adblock Plus](https://adblockplus.org/ "Adblock Plus") 和 [AdBlock](https://getadblock.com/ "AdBlock") 浏览器扩展。本列表作为官方列表 EasyList China+EasyList 的补充，可以强化网页广告拦截效果。
+一款针对中国大陆地区用户的广告过滤列表，适用于 <a href="https://adblockplus.org/" target="_blank" title="Adblock Plus">Adblock Plus</a> 和 <a href="https://getadblock.com/" target="_blank" title="AdBlock">AdBlock</a> 浏览器扩展。本列表作为官方列表 EasyList China+EasyList 的补充，可以强化网页广告拦截效果。
 
 感谢 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/francis-zhao/quarklist/badge)](https://www.jsdelivr.com/package/gh/francis-zhao/quarklist "jsDelivr - A free, fast, and reliable CDN for open source") 提供的 CDN 加速服务，你可以直接点击下方的订阅按钮使用最新版本。
 

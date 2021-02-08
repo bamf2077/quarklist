@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Advertising filtering suite written according to [Adblock Plus filters syntax](https://help.eyeo.com/adblockplus/how-to-write-filters "How to write filters"), includes [QuarkList](#quarklist-1) & [hosts](#hosts).
+Advertising filtering suite written according to <a href="https://help.eyeo.com/adblockplus/how-to-write-filters" target="_blank" title="How to write filters">Adblock Plus filters syntax</a>, includes [QuarkList](#quarklist-1) & [hosts](#hosts).
 
 <br>
 
@@ -13,7 +13,7 @@ Advertising filtering suite written according to [Adblock Plus filters syntax](h
 
 ### [QuarkList](https://github.com/francis-zhao/quarklist/blob/master/dist/quarklist.txt)
 
-An advertising filter for users in mainland China, applicable to [Adblock Plus](https://adblockplus.org/ "Adblock Plus") and [AdBlock](https://getadblock.com/ "AdBlock") browser extensions. As a supplement to official EasyList China+EasyList, it can enhance capability of advertising filtering.
+An advertising filter for users in mainland China, applicable to <a href="https://adblockplus.org/" target="_blank" title="Adblock Plus">Adblock Plus</a> and <a href="https://getadblock.com/" target="_blank" title="AdBlock">AdBlock</a> browser extensions. As a supplement to official EasyList China+EasyList, it can enhance capability of advertising filtering.
 
 Thanks to the CDN acceleration service provided by [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/francis-zhao/quarklist/badge)](https://www.jsdelivr.com/package/gh/francis-zhao/quarklist "jsDelivr - A free, fast, and reliable CDN for open source"), you can directly click the subscription button below to use the latest version.
 
