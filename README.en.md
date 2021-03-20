@@ -19,7 +19,7 @@ Thanks to the CDN acceleration service provided by [![jsDelivr](https://data.jsd
 
 - Subscribe via [jsDelivr](https://subscribe.adblockplus.org?location=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ffrancis-zhao%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList) (Preferred)
 
-- Subscribe via [personal website](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Flab%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList)
+- Subscribe via [personal website](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Fprojects%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList)
 
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/dist/hosts)
 
