@@ -13,7 +13,7 @@ Advertising filtering suite written according to [Adblock Plus filters syntax](h
 
 ### [QuarkList](https://github.com/francis-zhao/quarklist/blob/master/dist/quarklist.txt)
 
-An advertising filter for users in mainland China, applicable to [Adblock Plus](https://adblockplus.org/ "Adblock Plus") and [AdBlock](https://getadblock.com/ "AdBlock") browser extensions. As a supplement to official EasyList China+EasyList, it can enhance capability of advertising filtering.
+An advertising filter for users in mainland China, applicable to general blocker extensions of browser such as [Adblock Plus](https://adblockplus.org/ "Adblock Plus"), [AdBlock](https://getadblock.com/ "AdBlock"), [uBlock Origin](https://github.com/gorhill/uBlock "uBlock Origin"), etc. As a supplement to official `EasyList` and `EasyList China`, it can enhance capability of advertising filtering.
 
 Thanks to the CDN acceleration service provided by [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/francis-zhao/quarklist/badge)](https://www.jsdelivr.com/package/gh/francis-zhao/quarklist "jsDelivr - A free, fast, and reliable CDN for open source"), you can directly click the subscription link below to use the latest version.
 
@@ -21,9 +21,13 @@ Thanks to the CDN acceleration service provided by [![jsDelivr](https://data.jsd
 
 - Subscribe via [personal website](https://subscribe.adblockplus.org?location=https%3A%2F%2Fn2o.io%2Fprojects%2Fquarklist%2Fdist%2Fquarklist.txt&title=QuarkList)
 
+<br>
+
 ### [hosts](https://github.com/francis-zhao/quarklist/blob/master/dist/hosts)
 
-The hosts file of Windows OS in `C:\Windows\System32\drivers\etc\hosts` can be replaced or appended with the content of this file. You can simply delete the file when it is not needed, no backup is required.
+The hosts rule that blocks advertisement domain names can be used not only for browser, but also for all programs, but it can only block specific domain names and cannot provide more applicable block rules. Therefore, **it is not recommended for general usage**.
+
+You may replace or append the rules in the hosts file to the `C:\Windows\System32\drivers\etc\hosts` in Windows system or the `/etc/hosts` in Linux and macOS systems and save it to take effect.
 
 <br>
 <br>
