@@ -1,113 +1,590 @@
-[Adblock Plus 3.10]
+[Adblock Plus 3.0]
 ! Title: QuarkList
-! Version: 2.0.68
+! Version: 2.1.3
+! Last modified: 2021-11-10T20:00+07:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://n2o.io/go?page=quarklist
+! License: https://github.com/francis-zhao/quarklist/blob/master/LICENSE
 !
-! 如遇过滤失效或误过滤项，请通过邮箱 francis@n2o.io 反馈，谢谢
-! Please report any issues via e-mail francis@n2o.io.
+! Description:
+!   一款针对中国大陆地区用户的广告过滤列表，适用于 Adblock Plus、AdBlock、uBlock Origin
+!   等浏览器通用过滤扩展。本列表作为官方列表 EasyList 和 EasyList China 的补充，
+!   可以强化网页广告拦截效果。
 !
-! 一款针对中国大陆地区用户的广告过滤列表，适用于 Adblock Plus 和 AdBlock 浏览器扩展。
-! 本列表作为官方列表 EasyList China+EasyList 的补充，可以强化网页广告拦截效果。
-! An advertising filter for users in mainland China, applicable to
-! Adblock Plus and AdBlock browser extensions. As a supplement to official
-! EasyList China+EasyList, it can enhance capability of advertising filtering.
-! Copyright 2021 Francis Zhao <francis@n2o.io>
-! Released under the MIT license
-! https://github.com/francis-zhao/quarklist/blob/master/LICENSE
+!   An advertising filter for users in mainland China, applicable to
+!   general blocker extensions of browser such as Adblock Plus, AdBlock,
+!   uBlock Origin, etc. As a supplement to official `EasyList` and
+!   `EasyList China`, it can enhance capability of advertising filtering.
 !
-! Date: 2021-03-20T23:28+07:00
+! *** 如遇过滤失效或误过滤项，烦请通过邮箱 <francis@n2o.io> 反馈。 ***
+! *** Please report any issues via e-mail <francis@n2o.io>. ***
 !
 
-! -------------------- Ads-Union -------------------- !
+! ---------------- Advertisers Blocking 广告商拦截 ---------------- !
 
-||s.lianmeng.360.cn^
-||api.so.lianmeng.360.cn^
-||atanx.alicdn.com^
+! 360
+||lianmeng.360.cn^$third-party
+||union.360.cn^
+
+! Alibaba 阿里巴巴
+||a.alimama.cn^
+
+! Amazon 亚马逊
+||amazon-adsystem.com^
+
+! Baidu 百度
+||cb.baidu.com^
 ||cbjs.baidu.com^
+||cm.baidu.com^
 ||cpro.baidu.com^
-||datax.baidu.com^
+||crs.baidu.com^
+||drmcmm.baidu.com^
+||eiv.baidu.com^
+||mobads.baidu.com^
 ||pos.baidu.com^
+||share.baidu.com^
+||spcode.baidu.com^
 ||cpro.baidustatic.com^
 ||dup.baidustatic.com^
 ||ubmcmm.baidustatic.com^
-||pagead2.googlesyndication.com^
-||cdn.taboola.com.cn^
-||fc.yahoo.com^
-||beap.gemini.yahoo.com^
-||yql.yahoo.com^
-||ad.ettoday.net^
+||zz.bdstatic.com^
 
-||170yy.com^
-||6.cn/coop/
-||iyoowi.com^
-||kuaisouwifi.com^
-||nqtnu.cn^
-||quandangdang.net^
-||wang502.com^
+! Google 谷歌
+||2mdn.net^
+||admob.com^
+||doubleclick.com^
+||doubleclick.net^
+||googleadservices.com^
+||googleoptimize.com^
+||googlesyndication.com^
+||googletagmanager.com^
+||googletagservices.com^
 
-! -------------------- Third-party Advertisers -------------------- !
+! JD 京东
+||ads.union.jd.com^
 
-||lianmeng.360.cn^$third-party
-||doubleclick.net^$third-party
-||msads.net^$third-party
-||tanx.com^$third-party
+! NetEase 网易
+||g.163.com^
 
-||91dict.com^$third-party
-||adinall.com^$third-party
-||allyes.com^$third-party
-||baixing.com^$third-party
-||behe.com^$third-party
-||directrev.com^$third-party
-||exoclick.com^$third-party
-||exoticads.com^$third-party
-||fastapi.net^$third-party
-||googleadservices.com^$third-party
-||gouwuke.com^$third-party
-||x.jd.com^$third-party,domain=~jd.com
-||lx167.com^$third-party
-||mediav.com^$third-party
-||outbrain.com^$third-party
-||schborg.com^$third-party
-||xianliao.me^$third-party
-||yiqifa.com^$third-party
-
-! -------------------- General Advert Blocking -------------------- !
-
-
-! -------------------- Specific Advert Blocking -------------------- !
-
-||img.1234567.com.cn/trade/js/rightDA.js
-||crs.baidu.com^$domain=ithome.com
-||cmsjs.eastmoney.com^$script
-||same.eastmoney.com^
-||fund.eastmoney.com/js/rightAd.js
-||img.ithome.com/file/js/money/
-||lapin.ithome.com^
-||s.miwifi.com^
-||sina.com.cn/litong/
+! Sina 新浪
+||interest.mix.sina.com.cn^
+||p4p.sina.com.cn^
+||pfp.sina.com.cn^
+||sax.sina.com.cn^
+||saxn.sina.com.cn^
 ||tjs.sjs.sinajs.cn^
-||miniye.xjts.cn^
+||alitui.weibo.com^
 
-! -------------------- General Element Hiding -------------------- !
+! Sohu 搜狐
+||ads.sohu.com^
+||aty.sohu.com^
+||go.sohu.com^
+
+! Tencent 腾讯
+||pgdt.gtimg.cn^
+||inte.sogou.com^
+||inte.sogoucdn.com^
+||theta.sogoucdn.com^
+
+! Xiaomi 小米
+||s.miwifi.com^
+||tjqonline.cn^
+||ad.xiaomi.com^
+||ad.intl.xiaomi.com^
+
+! Yahoo 雅虎
+||ads.yahoo.com^
+||gemini.yahoo.com^$third-party
+
+! Others 其他
+||mediav.com^$third-party
+
+! geosite:category-alibaba-ads
+||acjs.aliyun.com^
+||adash*.m.taobao.com^
+||adash*.ut.taobao.com^
+||adsh.m.taobao.com^
+||afp.adchina.com^
+||afp.alicdn.com^
+||agoodm.m.taobao.com^
+||agoodm.wapa.taobao.com^
+||alipaylog.com^
+||amdc.alipay.com^
+||amdc.m.taobao.com^
+||api.wapa.taobao.com^
+||api.waptest.taobao.com^
+||apoll.m.taobao.com^
+||appdownload.alicdn.com^
+||atanx*.alicdn.com^
+||cdn0.mobmore.com^
+||click.aliyun.com^
+||cm.ipinyou.com^
+||cm.mlt01.com^
+||err.taobao.com^
+||ex.mobmore.com^
+||ex.puata.info^
+||feedback.whalecloud.com^
+||ff.win.taobao.com^
+||fm.p0y.cn^
+||g.click.taobao.com^
+||g.tbcdn.cn^
+||gma.alicdn.com^
+||hydra.alibaba.com^
+||hz.pre.tbusergw.taobao.net^
+||hz.tbusergw.taobao.net^
+||i.ipinyou.com^
+||init.phpwind.com^
+||intl.wapa.taobao.com^
+||intl.waptest.taobao.com^
+||jxlog.istreamsche.com^
+||log.umtrack.com^
+||m.intl.taobao.com^
+||match.p4p.1688.com^
+||material.istreamsche.com^
+||mlt01.com^
+||nbsdk-baichuan.alicdn.com^
+||nbsdk-baichuan.taobao.com^
+||osfota.cdn.aliyun.com^
+||pindao.huoban.taobao.com^
+||push.wandoujia.com^
+||re.m.taobao.com^
+||re.taobao.com^
+||rj.m.taobao.com^
+||sdkinit.taobao.com^
+||show.re.taobao.com^
+||simba.m.taobao.com^
+||stats.ipinyou.com^
+||strip.taobaocdn.com^
+||tanxlog.istreamsche.com^
+||tejia.taobao.com^
+||temai.taobao.com^
+||tongji.linezing.com^
+||tyh.taobao.com^
+||userimg.qunar.com^
+||w.m.taobao.com^
+||yiliao.hupan.com^
+
+! geosite:category-apple-ads
+||iadsdk.apple.com^
+||iad.apple.com^
+
+! geosite:category-baidu-ads
+||a.baidu.com^
+||ad.duapps.com^
+||ad.player.baidu.com^
+||adm.baidu.com^
+||adscdn.baidu.com^
+||adx.xiaodutv.com^
+||ae.bdstatic.com^
+||afd.baidu.com^
+||als.baidu.com^
+||api.mobula.sdk.duapps.com^
+||api.tuisong.baidu.com^
+||appc.baidu.com^
+||b.bdstatic.com^
+||baichuan.baidu.com^
+||baidustatic.com^
+||baidutv.baidu.com^
+||banlv.baidu.com^
+||bar.baidu.com^
+||bdimg.share.baidu.com^
+||bdplus.baidu.com^
+||bj.bcebos.com^
+||btlaunch.baidu.com^
+||c.baidu.com^
+||cjhq.baidu.com^
+||cleaner.baidu.com^
+||click.bes.baidu.com^
+||click.qianqian.com^
+||cm.baichuan.baidu.com^
+||dd713.bj.bcebos.com^
+||dl.client.baidu.com^
+||dl.ops.baidu.com^
+||dl1sw.baidu.com^
+||dl2.bav.baidu.com^
+||dlsw.baidu.com^
+||dlsw.br.baidu.com^
+||dl-vip.bav.baidu.com^
+||dl-vip.pcfaster.baidu.co.th^
+||download.bav.baidu.com^
+||download.sd.baidu.com^
+||dxp.baidu.com^
+||dzl.baidu.com^
+||e.baidu.com^
+||ecm*.bdimg.com^
+||em.baidu.com^
+||entry.baidu.com^
+||ers.baidu.com^
+||f10.baidu.com^
+||fc-feed.cdn.bcebos.com^
+||fclick.baidu.com^
+||feed.baidu.com^
+||fexclick.baidu.com^
+||g.baidu.com^
+||gimg.baidu.com^
+||guanjia.baidu.com^
+||hc.baidu.com^
+||hmma.baidu.com^
+||hpd.baidu.com^
+||idm.bce.baidu.com^
+||idm-su.baidu.com^
+||iebar.baidu.com^
+||ikcode.baidu.com^
+||img.taotaosou.cn^
+||img01.taotaosou.cn^
+||j.br.baidu.com^
+||kstj.baidu.com^
+||log.music.baidu.com^
+||m1.baidu.com^
+||ma.baidu.com^
+||mobads-logs.baidu.com^
+||mpro.baidu.com^
+||msite.baidu.com^
+||neirong.baidu.com^
+||nsclick.baidu.com^
+||nsclickvideo.baidu.com^
+||openrcv.baidu.com^
+||pc.videoclick.baidu.com^
+||pups.bdimg.com^
+||push.zhanzhang.baidu.com^
+||qianclick.baidu.com^
+||release.baidu.com^
+||res.mi.baidu.com^
+||river.zhidao.baidu.com^
+||rj.baidu.com^
+||rplog.baidu.com^
+||s.baidu.com^
+||sa.tuisong.baidu.com^
+||sestat.baidu.com^
+||shadu.baidu.com^
+||sobar.baidu.com^
+||sobartop.baidu.com^
+||stat.v.baidu.com^
+||su.bdimg.com^
+||su.bdstatic.com^
+||tk.baidu.com^
+||tkweb.baidu.com^
+||tob-cms.bj.bcebos.com^
+||tongji.baidu.com^
+||toolbar.baidu.com^
+||tracker.baidu.com^
+||tuijian.baidu.com^
+||uat1.bfsspadserver.8le8le.com^
+||ucstat.baidu.com^
+||ulic.baidu.com^
+||ulog.imap.baidu.com^
+||union.baidu.com^
+||unionimage.baidu.com^
+||utility.baidu.com^
+||utk.baidu.com^
+||videopush.baidu.com^
+||vv84.bj.bcebos.com^
+||w.gdown.baidu.com^
+||w.x.baidu.com^
+||wangmeng.baidu.com^
+||weishi.baidu.com^
+||wenku-cms.bj.bcebos.com^
+||wisepush.video.baidu.com^
+||wm.baidu.com^
+||znsv.baidu.com^
+||zz.bdstatic.com^
+||zzy1.quyaoya.com^
+
+! geosite:category-bytedance-ads
+||bds.snssdk.com^
+||ctobsnssdk.com^
+||dig.bdurl.net^
+||extlog.snssdk.com^
+||i.snssdk.com^
+||is.snssdk.com^
+||cs.snssdk.com^
+||pangolin.snssdk.com^
+||pangolin-sdk-toutiao.com^
+||pglstatp-toutiao.com^
+||sf3-ttcdn-tos.pstatp.com^
+
+! geosite:category-google-ads
+||adsense.com^
+||adsensecustomsearchads.com^
+||adsenseformobileapps.com^
+||adservice.google.*^
+||advertisercommunity.com^
+||advertiserscommunity.com^
+||adwords-community.com^
+||adwords.com^
+||adwordsexpress.com^
+||app-measurement.com^
+||clickserver.googleads.com^
+||googleadapis.com^
+||googletraveladservices.com^
+||urchin.com^
+
+! geosite:category-hunantv-ads
+||click.hunantv.com^
+||da.hunantv.com^
+||log.hunantv.com^
+||log.v2.hunantv.com^
+||res.hunantv.com^
+
+! geosite:category-iqiyi-ads
+||a.ckm.iqiyi.com^
+||ad.m.iqiyi.com^
+||afp.iqiyi.com^
+||c.uaa.iqiyi.com^
+||cloudpush.iqiyi.com^
+||cm.passport.iqiyi.com^
+||emoticon.sns.iqiyi.com^
+||gamecenter.iqiyi.com^
+||hotchat-im.iqiyi.com^
+||ifacelog.iqiyi.com^
+||mbdlog.iqiyi.com^
+||msg.71.am^
+||msg*.video.qiyi.com^
+||policy.video.iqiyi.com^
+||yuedu.iqiyi.com^
+
+! geosite:category-jd-ads
+||c-nfa.jd.com^
+||cps.360buy.com^
+||jzt.jd.com^
+||stat.m.jd.com^
+
+! geosite:category-kuaishou-ads
+||log-sdk.gifshow.com^
+||wlog.kuaishou.com^
+
+! geosite:category-netease-ads
+||crash.163.com^
+||crashlytics.163.com^
+
+! geosite:category-ookla-speedtest-ads
+speed.*.ad.*.prod.hosts.ooklaserver.net^
+
+! geosite:category-sina-ads
+||2016.sina.cn^
+||ad.sina.com.cn^
+||adbox.sina.com.cn^
+||adimages.sina.com.hk^
+||adimg.mobile.sina.cn^
+||adimg.uve.weibo.com^
+||ads.sina.com^
+||api.apps.sina.cn^
+||appgift.sinaapp.com^
+||appsupdate.sinaapp.com^
+||atm.sina.com^
+||biz.weibo.com^
+||click.uve.mobile.sina.cn^
+||click.uve.weibo.com^
+||contentrecommend-out.mobile.sina.cn^
+||count.video.sina.com.cn^
+||counter.sina.com.cn^
+||cre.dp.sina.cn^
+||cre-dp.sina.cn^
+||d00.sina.com.cn^
+||dcads.sina.com.cn^
+||dl.kjava.sina.cn^
+||dmp.sina.cn^
+||dp.im.weibo.cn^
+||game.weibo.cn^
+||game.weibo.com^
+||gw5.push.mcp.weibo.cn^
+||gw6.push.mcp.weibo.cn^
+||int.dpool.sina.com.cn^
+||log.mix.sina.com.cn^
+||m.game.weibo.cn^
+||mg.games.sina.com.cn^
+||newspush.sinajs.cn^
+||oascentral.sina.com^
+||oascentral.sina.com.hk^
+||palmnews.sina.cn^
+||pay.mobile.sina.cn^
+||pfpip.sina.com^
+||promote.biz.weibo.cn^
+||rm.sina.com.cn^
+||s.img.mix.sina.com.cn^
+||sapi.sina.cn^
+||sax.sina.cn^
+||sdkapp.mobile.sina.cn^
+||sdkapp.uve.weibo.com^
+||sdkclick.mobile.sina.cn^
+||slog.sina.cn^
+||slog.sina.com.cn^
+||trends.mobile.sina.cn^
+||u1.img.mobile.sina.cn^
+||wapwbclick.mobile.sina.cn^
+||wbapp.mobile.sina.cn^
+||wbapp.uve.weibo.com^
+||wbclick.mobile.sina.cn^
+||wbpctips.mobile.sina.cn^
+||widget.weibo.com^
+||woocall.sina.com.cn^
+||zc.biz.weibo.com^
+||zymo.mps.weibo.com^
+
+! geosite:category-sohu-ads
+||adnet.sohu.com^
+||adv-sv-show.focus.cn^
+||golden1.sogou.com^
+||imp.optaim.com^
+||lu.sogoucdn.com^
+||uranus.sogou.com^
+||e8aeb8bbdbbd7.cdn.sohucs.com^
+||643108e7617ef.cdn.sohucs.com^
+
+! geosite:category-spotify-ads
+||adeventtracker.spotify.com^
+||adstudio-assets.scdn.co^
+||bloodhound.spotify.com^
+
+! geosite:category-tencent-ads
+||ad.qq.com^
+||ad.qun.qq.com^
+||adfilter.imtt.qq.com^
+||adping.qq.com^
+||adpm.app.qq.com^
+||adsclick.qq.com^
+||adsfile.qq.com^
+||adshmmsg.qq.com^
+||adslvfile.qq.com^
+||adslvseed.qq.com^
+||adsmind.apdcdn.tc.qq.com^
+||adsqqclick.qq.com^
+||adstestview.qq.com^
+||adsview*.qq.com^
+||adv.app.qq.com^
+||adver.qq.com^
+||e.qq.com^
+||log.tbs.qq.com^
+||mpush.qq.com^
+||push.qq.com^
+
+! geosite:category-xiaomitv-ads
+||ad.mi.com^
+||adv.sec*.miui.com^
+||misc.in.duokanbox.com^
+||ad.hpplay.cn^
+||adeng.hpplay.cn^
+
+! geosite:category-yahoo-ads
+||ysm.yahoo.com^
+
+! geosite:category-youku-ads
+||actives.youku.com^
+||ad.api.*.youku.com^
+||ad.mobile.youku.com^
+||a-dxk.play.api.3g.youku.com^
+||b.smartvideo.youku.com^
+||c.yes.youku.com^
+||das.*.youku.com^
+||dev-push.m.youku.com^
+||dl.g.youku.com^
+||dmapp.youku.com^
+||e.stat.ykimg.com^
+||gamex.mobile.youku.com^
+||guanggaoad.youku.com^
+||huodong.pl.youku.com^
+||huodong.vip.youku.com^
+||hz.youku.com^
+||iyes.youku.com^
+||l.ykimg.com^
+||l.youku.com^
+||lstat.youku.com^
+||mobilemsg.youku.com^
+||msg.youku.com^
+||myes.youku.com^
+||pl.youku.com^
+||passport-log.youku.com^
+||push.m.youku.com^
+||s.p.youku.com^
+||sdk.m.youku.com^
+||stat.youku.com^
+||statis.api.3g.youku.com^
+||store.*.api.3g.youku.com^
+||tdrec.youku.com^
+||test.ott.youku.com^
+||test.sdk.m.youku.com^
+||val.api.youku.com^
+||wan.youku.com^
+||ykatr.youku.com^
+||ykrec.youku.com^
+
+! geosite:category-ads-all
+||7box.vip^
+||ad-delivery.net^
+||adinplay.com^
+||adnxs.com^
+||ads.trafficjunky.net^
+||advertserve.com^
+||casalemedia.com^
+||contextual.media.net^
+||cpmstar.com^
+||demdex.net^
+||httpool.com^
+||lijit.com^
+||1rx.io^
+||mfadsrvr.com^
+||mgid.com^
+||ns1p.net^
+||openx.net^
+||pubmatic.com^
+||spotxchange.com^
+||taboola.com^
+||unimhk.com^
+||upapi.net^
+
+! ---------------- Generic Elements Hiding 通用元素隐藏 ---------------- !
 
 ##.adbox
 ##.adsbygoogle
 ##.adsbyxa
 ##.ad-box
 
-! -------------------- Specific Element Hiding -------------------- !
+! ---------------- Specific Ads Blocking 特定广告拦截 ---------------- !
 
-chaturbate.com,chatclimax.com##.ad
+! EastMoney 东方财富
+||img.1234567.com.cn/trade/js/rightDA.js
+||cmsjs.eastmoney.com^$script
+||same.eastmoney.com^
+||fund.eastmoney.com/js/rightAd.js
 
+! HunanTV 芒果TV
+||da.mgtv.com^
+
+! iQiyi 爱奇艺
+||cupid.iqiyi.com^
+
+! ITHome IT之家
+||img.ithome.com/file/js/money/
+||lapin.ithome.com^
+
+! Sina 新浪
+||leju.com^$third-party
+
+! Youku 优酷
+||atm.youku.com^
+||hudong.pl.youku.com^
+
+! Others 其他
+||6.cn^$third-party
+
+! ---------------- Specific Elements Hiding 特定元素隐藏 ---------------- !
+
+! 360
+www.so.com###footer a[href="http://mse.360.cn"]
+www.so.com###footer a[href="http://mse.360.cn"] + span
+
+! Baidu 百度
 www.baidu.com##.guide-info
 www.baidu.com##.s-hotsearch-wrapper
 tieba.baidu.com##.thread_recommend
 
+! Chaturbate
+chaturbate.com,chatclimax.com##.ad
 chaturbate.com,chatclimax.com##.banner
 chaturbate.com,chatclimax.com##.bio a img[style*="absolute"]
 chaturbate.com,chatclimax.com##.bio a img[style*="fixed"]
 
+! cnBeta
 cnbeta.com##[class^="cbv"]
 cnbeta.com##[class$="cbv"]
 cnbeta.com###upcoming_box
@@ -117,6 +594,7 @@ cnbeta.com##.cnbeta-side-sponsor
 cnbeta.com##.meta span:last-child
 cnbeta.com##.meta-data .tks
 
+! ITHome IT之家
 ithome.com##div[id^="tt"]
 ithome.com###hl-toutiao
 ithome.com##.AdblockBanner
@@ -130,30 +608,94 @@ ithome.com###hd_float
 ithome.com###side_func
 ithome.com###lapin
 
+! Greasy Fork
 greasyfork.org###script-show-info-ad
 
+! Sina 新浪
 finance.sina.com.cn##.blk_APP_JSl
 finance.sina.com.cn##.blk_APP_JSr
 
+! Jiemian 界面新闻
 jiemian.com###ad_header_top
 jiemian.com##.cnzz-ads
 jiemian.com##.jm-app
 
-www.so.com###footer a[href="http://mse.360.cn"]
-www.so.com###footer a[href="http://mse.360.cn"] + span
+! ---------------- Trackers Blocking 跟踪器拦截 ---------------- !
 
-www.sogou.com##.erwm-box
+! 360
+||s.360.cn^
 
-gjol.wangyuan.com##.xf_box
-gjol.wangyuan.com##.buttom_nav
-gjol.wangyuan.com##.right_nav
-gjol.wangyuan.com##.login_box
+! AcFun
+||apilog-web.acfun.cn^
 
-! -------------------- URL Whitelists -------------------- !
+! Alibaba 阿里巴巴
+||mmstat.com^
+||tanx.com^$third-party
+||fourier.taobao.com^
+||simba.taobao.com^
 
-@@||n2o.io^$document
+! Baidu 百度
+||datax.baidu.com^
+||hm.baidu.com^
+||dlswbr.baidu.com^
+||eclick.baidu.com^
+||sclick.baidu.com^
 
-! -------------------- Malware Blocking -------------------- !
+! Google 谷歌
+||google-analytics.com^
+
+! iQiyi 爱奇艺
+||msg.qy.net^
+
+! JD 京东
+||img-x.jd.com^
+||gia.jd.com^
+
+! KuaiShou 快手
+||log-sdk.ksapisrv.com^
+
+! NetEase 网易
+||analytics.163.com^
+||nex.163.com^
+
+! Sina 新浪
+||log.sina.cn^
+||beacon.sina.com.cn^
+||sbeacon.sina.com.cn^
+||rs.sinajs.cn^
+
+! Sohu 搜狐
+||pv.hd.sohu.com^
+||pv.sohu.com^
+||track.sohu.com^
+
+! Tencent 腾讯
+||btrace.qq.com^
+||mtrace.qq.com^
+||pingjs.qq.com^
+||epro.sogou.com^
+||pb.sogou.com^
+||hhytrace.sogoucdn.com^
+
+! Umeng 友盟+
+||cnzz.com^$third-party
+||umeng.com^$third-party
+
+! Xiaomi 小米
+||tracking.miui.com^
+||mistat.xiaomi.com^
+||stat.xiaomi.com^
+
+! Youku 优酷
+||p-log.ykimg.com^
+||cmstool.youku.com^
+
+! Others 其他
+||histats.com^
+||kuyun.com^$third-party
+||reachmax.cn^
+
+! ---------------- Malwares Blocking 恶意软件拦截 ---------------- !
 
 ||2345.com
 ||360.cn
@@ -165,14 +707,8 @@ gjol.wangyuan.com##.login_box
 ||qihucdn.com
 ||qiku.com
 
-! -------------------- Do Not Track -------------------- !
+! ---------------- Allowlist 白名单 ---------------- !
 
-||hm.baidu.com^$third-party,domain=~baidu.com
-||baifendian.com^$third-party
-||cnzz.com^$third-party
-||google-analytics.com^$third-party
-||googletagmanager.com^$third-party
-||histats.com^$third-party
-||tjqonline.cn^
+! No exception
 
-! -------------------- END -------------------- !
+! ---------------- END ---------------- !
