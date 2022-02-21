@@ -1,16 +1,18 @@
-# hosts v2.1.3
+# hosts v2.1.4
 # https://n2o.io/go?page=quarklist
 #
-# Copyright 2021 Francis Zhao <francis@n2o.io>
+# Copyright 2022 Francis Zhao and contributors
 # Released under the MIT license
 # https://github.com/francis-zhao/quarklist/blob/master/LICENSE
 #
-# Date: 2021-11-09T00:00+07:00
+# Date: 2022-02-21T14:00+07:00
 #
 
-# `localhost` name resolution is handled within DNS itself.
-#   127.0.0.1        localhost
-#         ::1        localhost
+# localhost
+# 127.0.0.1          localhost
+# 255.255.255.255    broadcasthost
+# ::1                localhost
+# fe80::1%lo0        localhost
 
 # ------------ Advertisers Blocking 广告商拦截 ------------ #
 
@@ -686,6 +688,8 @@
 0.0.0.0    down.360safe.com
 0.0.0.0    www.360safe.com
 0.0.0.0    www.duba.com
+0.0.0.0    horux.cz
+0.0.0.0    lktoday.ru
 0.0.0.0    hao.rising.cn
 0.0.0.0    home.xl9.xunlei.com
 0.0.0.0    misc.xl9.xunlei.com

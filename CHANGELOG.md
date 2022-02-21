@@ -1,10 +1,11 @@
 # 更新日志
 
-## [2.1.x] - 2021-11-08
+## [2.1] - 2021-11-08
 
 ### 新增
 
 - 大量常见网站广告域名，由 [`geosite:category-ads-all`](https://github.com/v2fly/domain-list-community) 提供。
+- KMSpico 弹窗广告网页域名。
 - 部分视频网站广告域名。
 - 部分跟踪器域名。
 
