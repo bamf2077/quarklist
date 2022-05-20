@@ -1,12 +1,13 @@
 # 更新日志
 
-## [2.1.x] - 2021-11-08
+## [2.1.x] - 2022-05-20
 
 ### 新增
 
 - 大量常见网站广告域名，由 [`geosite:category-ads-all`](https://github.com/v2fly/domain-list-community) 提供。
 - 部分视频网站广告域名。
 - 部分跟踪器域名。
+- [hosts] 部分域名 DNS 修复。
 
 ### 修改
 
