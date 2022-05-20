@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: QuarkList
-! Version: 2.1.3
-! Last modified: 2021-11-10T20:00+07:00
+! Version: 2.1.4
+! Last modified: 2022-02-21T14:00+07:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://n2o.io/go?page=quarklist
 ! License: https://github.com/francis-zhao/quarklist/blob/master/LICENSE
@@ -702,6 +702,8 @@ jiemian.com##.jm-app
 ||360safe.com
 ||360totalsecurity.com
 ||haosou.com
+||horux.cz
+||lktoday.ru
 ||qhimg.com,domain=~so.com
 ||qihu.com
 ||qihucdn.com

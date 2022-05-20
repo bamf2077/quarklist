@@ -5,6 +5,7 @@
 ### 新增
 
 - 大量常见网站广告域名，由 [`geosite:category-ads-all`](https://github.com/v2fly/domain-list-community) 提供。
+- KMSpico 弹窗广告网页域名。
 - 部分视频网站广告域名。
 - 部分跟踪器域名。
 - [hosts] 部分域名 DNS 修复。
