@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: QuarkList
-! Version: 2.1.4
-! Last modified: 2022-02-21T14:00+07:00
+! Version: 2.1.5
+! Last modified: 2022-10-21T02:21+07:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://n2o.io/go?page=quarklist
 ! License: https://github.com/francis-zhao/quarklist/blob/master/LICENSE
@@ -591,7 +591,6 @@ cnbeta.com###upcoming_box
 cnbeta.com##.article-global
 cnbeta.com##.article-topic
 cnbeta.com##.cnbeta-side-sponsor
-cnbeta.com##.meta span:last-child
 cnbeta.com##.meta-data .tks
 
 ! ITHome IT之家

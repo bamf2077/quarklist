@@ -17,15 +17,16 @@
 # ------------ DNS Fix ------------ #
 
 # Binance
-75.2.87.245     sha256.poolbinance.com
 99.83.150.206   sha256.poolbinance.com
-120.77.158.196  ethash.poolbinance.com
+75.2.87.245     sha256.poolbinance.com
 13.248.162.234  ethash.poolbinance.com
+120.77.158.196  ethash.poolbinance.com
 
 # jsDelivr
-151.101.73.229   cdn.jsdelivr.net
+212.102.50.50    www.jsdelivr.com
+212.102.50.52    www.jsdelivr.com
 151.101.109.229  cdn.jsdelivr.net
-
+151.101.73.229   cdn.jsdelivr.net
 
 # ------------ Advertisers Blocking 广告商拦截 ------------ #
 
