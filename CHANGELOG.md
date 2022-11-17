@@ -1,14 +1,13 @@
 # 更新日志
 
-## [2.1.x] - 2022-10-21
+## [2.1] - 2022-11-18
 
 ### 新增
 
-- 大量常见网站广告域名，由 [`geosite:category-ads-all`](https://github.com/v2fly/domain-list-community) 提供。
-- KMSpico 弹窗广告网页域名。
-- 部分视频网站广告域名。
-- 部分跟踪器域名。
-- [hosts] 币安、jsDelivr 等网站相关域名 DNS 修复。
+- 新增大量常见网站广告域名解析屏蔽，由 [`geosite:category-ads-all`](https://github.com/v2fly/domain-list-community) 提供。
+- 新增 KMSpico 弹窗、部分视频网站等广告域名解析屏蔽。
+- 新增迅雷浏览器扩展等跟踪器域名解析屏蔽。
+- 新增币安等网站相关域名解析修复。
 
 ### 修改
 
@@ -17,5 +16,6 @@
 
 ### 移除
 
-- 部分失效广告脚本及元素隐藏规则。
-- 部分 `geosite` 中误拦截规则。
+- 移除部分失效广告脚本及元素隐藏规则。
+- 移除 `geosite` 中部分误拦截规则。
+- 移除部分失效跟踪器域名解析屏蔽。

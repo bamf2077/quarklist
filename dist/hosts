@@ -1,11 +1,11 @@
-# hosts v2.1.5
+# hosts v2.1.6
 # https://n2o.io/go?page=quarklist
 #
 # Copyright 2022 Francis Zhao <francis@n2o.io>
 # Released under the MIT license
 # https://github.com/francis-zhao/quarklist/blob/master/LICENSE
 #
-# Date: 2022-05-20T23:00+07:00
+# Date: 2022-11-18T02:00+07:00
 #
 
 # localhost
@@ -21,12 +21,6 @@
 75.2.87.245     sha256.poolbinance.com
 13.248.162.234  ethash.poolbinance.com
 120.77.158.196  ethash.poolbinance.com
-
-# jsDelivr
-212.102.50.50    www.jsdelivr.com
-212.102.50.52    www.jsdelivr.com
-151.101.109.229  cdn.jsdelivr.net
-151.101.73.229   cdn.jsdelivr.net
 
 # ------------ Advertisers Blocking 广告商拦截 ------------ #
 
@@ -678,6 +672,9 @@
 0.0.0.0    tracking.miui.com
 0.0.0.0    mistat.xiaomi.com
 0.0.0.0    stat.xiaomi.com
+
+# Xunlei 迅雷
+0.0.0.0    stat.download.xunlei.com
 
 # Youku 优酷
 0.0.0.0    p-log.ykimg.com
