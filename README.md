@@ -1,5 +1,4 @@
-[<kbd>**`* 简体中文 *`**</kbd>](https://github.com/francis-zhao/quarklist#readme "读我")
-[<kbd>English</kbd>](https://github.com/francis-zhao/quarklist/blob/master/README.en.md "Readme")
+[<kbd>**`* 简体中文 *`**</kbd>](https://github.com/francis-zhao/quarklist#readme "读我") [<kbd>English</kbd>](https://github.com/francis-zhao/quarklist/blob/master/README.en.md "Readme")
 
 # QuarkList
 

@@ -1,38 +1,12 @@
-# hosts v2.1.7
-# https://n2o.io/go?page=quarklist
-#
-# Copyright 2023 Francis Zhao <francis@n2o.io>
-# Released under the MIT license
-# https://github.com/francis-zhao/quarklist/blob/master/LICENSE
-#
-# Date: 2023-10-04T08:00+07:00
-#
-
-# localhost
-# 127.0.0.1        localhost
-# 255.255.255.255  broadcasthost
-# ::1              localhost
-# fe80::1%lo0      localhost
-
-# ------------ DNS Fix ------------ #
-
-# Binance
-99.83.150.206 sha256.poolbinance.com
-75.2.87.245 sha256.poolbinance.com
-13.248.162.234 ethash.poolbinance.com
-120.77.158.196 ethash.poolbinance.com
-
-# ------------ Advertisers Blocking 广告商拦截 ------------ #
-
-# 360
+# -------- 360 -------- #
 0.0.0.0 s.lianmeng.360.cn
 0.0.0.0 api.so.lianmeng.360.cn
 0.0.0.0 union.360.cn
 
-# Alibaba 阿里巴巴
+# -------- Alibaba 阿里巴巴 -------- #
 0.0.0.0 a.alimama.cn
 
-# Baidu 百度
+# -------- Baidu 百度 -------- #
 0.0.0.0 cb.baidu.com
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cm.baidu.com
@@ -42,7 +16,6 @@
 0.0.0.0 eiv.baidu.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 pos.baidu.com
-0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 share.baidu.com
 0.0.0.0 spcode.baidu.com
 0.0.0.0 cpro.baidustatic.com
@@ -50,19 +23,28 @@
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 zz.bdstatic.com
 
-# Google 谷歌
+# -------- Google 谷歌 -------- #
 0.0.0.0 g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 
-# JD 京东
+# -------- HunanTV 芒果TV -------- #
+0.0.0.0 da.mgtv.com
+
+# -------- iQiyi 爱奇艺 -------- #
+0.0.0.0 cupid.iqiyi.com
+
+# -------- ITHome IT之家 -------- #
+0.0.0.0 lapin.ithome.com
+
+# -------- JD 京东 -------- #
 0.0.0.0 ads.union.jd.com
 
-# NetEase 网易
+# -------- NetEase 网易 -------- #
 0.0.0.0 g.163.com
 
-# Sina 新浪
+# -------- Sina 新浪 -------- #
 0.0.0.0 interest.mix.sina.com.cn
 0.0.0.0 p4p.sina.com.cn
 0.0.0.0 pfp.sina.com.cn
@@ -71,18 +53,18 @@
 0.0.0.0 tjs.sjs.sinajs.cn
 0.0.0.0 alitui.weibo.com
 
-# Sohu 搜狐
+# -------- Sohu 搜狐 -------- #
 0.0.0.0 ads.sohu.com
 0.0.0.0 aty.sohu.com
 0.0.0.0 go.sohu.com
 
-# Tencent 腾讯
+# -------- Tencent 腾讯 -------- #
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 inte.sogou.com
 0.0.0.0 inte.sogoucdn.com
 0.0.0.0 theta.sogoucdn.com
 
-# Xiaomi 小米
+# -------- Xiaomi 小米 -------- #
 0.0.0.0 s.miwifi.com
 0.0.0.0 tjqonline.cn
 0.0.0.0 ad.xiaomi.com
@@ -90,10 +72,20 @@
 0.0.0.0 admob.xiaomi.com
 0.0.0.0 ad.intl.xiaomi.com
 
-# Yahoo 雅虎
+# -------- Xunlei 迅雷 -------- #
+0.0.0.0 home.xl9.xunlei.com
+0.0.0.0 misc.xl9.xunlei.com
+
+# -------- Yahoo 雅虎 -------- #
 0.0.0.0 ads.yahoo.com
 
-# Others 其他
+# -------- Youku 优酷 -------- #
+0.0.0.0 atm.youku.com
+0.0.0.0 hudong.pl.youku.com
+
+# -------- Others 其他 -------- #
+0.0.0.0 v.6.cn
+0.0.0.0 www.6.cn
 0.0.0.0 max.mediav.com
 0.0.0.0 static.mediav.com
 
@@ -578,130 +570,3 @@
 0.0.0.0 taboola.com
 0.0.0.0 unimhk.com
 0.0.0.0 upapi.net
-
-# ---------------- Specific Ads Blocking 特定广告拦截 ---------------- #
-
-# HunanTV 芒果TV
-0.0.0.0 da.mgtv.com
-
-# iQiyi 爱奇艺
-0.0.0.0 cupid.iqiyi.com
-
-# ITHome IT之家
-0.0.0.0 lapin.ithome.com
-
-# Youku 优酷
-0.0.0.0 atm.youku.com
-0.0.0.0 hudong.pl.youku.com
-
-# Others 其他
-0.0.0.0 v.6.cn
-0.0.0.0 www.6.cn
-
-# ------------ Trackers Blocking 跟踪器拦截 ------------ #
-
-# 360
-0.0.0.0 s.360.cn
-
-# AcFun
-0.0.0.0 apilog-web.acfun.cn
-
-# Alibaba 阿里巴巴
-0.0.0.0 ac.mmstat.com
-0.0.0.0 gm.mmstat.com
-0.0.0.0 hd.mmstat.com
-0.0.0.0 log.mmstat.com
-0.0.0.0 ws.mmstat.com
-0.0.0.0 cdn.tanx.com
-0.0.0.0 click.tanx.com
-0.0.0.0 ecpm.tanx.com
-0.0.0.0 opehs.tanx.com
-0.0.0.0 p.tanx.com
-0.0.0.0 phs.tanx.com
-0.0.0.0 fourier.taobao.com
-0.0.0.0 tns.simba.taobao.com
-
-# Baidu 百度
-0.0.0.0 datax.baidu.com
-0.0.0.0 hm.baidu.com
-0.0.0.0 dlswbr.baidu.com
-0.0.0.0 eclick.baidu.com
-0.0.0.0 sclick.baidu.com
-
-# Google 谷歌
-0.0.0.0 www.google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-
-# iQiyi 爱奇艺
-0.0.0.0 msg.qy.net
-
-# JD 京东
-0.0.0.0 img-x.jd.com
-0.0.0.0 gia.jd.com
-
-# KuaiShou 快手
-0.0.0.0 log-sdk.ksapisrv.com
-
-# NetEase 网易
-0.0.0.0 analytics.163.com
-0.0.0.0 nex.163.com
-
-# Sina 新浪
-0.0.0.0 log.sina.cn
-0.0.0.0 beacon.sina.com.cn
-0.0.0.0 m.beacon.sina.com.cn
-0.0.0.0 sbeacon.sina.com.cn
-0.0.0.0 rs.sinajs.cn
-
-# Sohu 搜狐
-0.0.0.0 pv.hd.sohu.com
-0.0.0.0 pv.sohu.com
-0.0.0.0 track.sohu.com
-
-# Tencent 腾讯
-0.0.0.0 btrace.qq.com
-0.0.0.0 mtrace.qq.com
-0.0.0.0 pingjs.qq.com
-0.0.0.0 epro.sogou.com
-0.0.0.0 pb.sogou.com
-0.0.0.0 hhytrace.sogoucdn.com
-
-# Umeng 友盟+
-0.0.0.0 w.cnzz.com
-
-# Xiaomi 小米
-0.0.0.0 tracking.miui.com
-0.0.0.0 mistat.xiaomi.com
-0.0.0.0 stat.xiaomi.com
-
-# Xunlei 迅雷
-0.0.0.0 stat.download.xunlei.com
-
-# Youku 优酷
-0.0.0.0 p-log.ykimg.com
-0.0.0.0 cmstool.youku.com
-
-# Others 其他
-0.0.0.0 histats.com
-0.0.0.0 v2.reachmax.cn
-
-# ------------ Malwares Blocking 恶意软件拦截 ------------ #
-
-0.0.0.0 download.2345.com
-0.0.0.0 www.2345.com
-0.0.0.0 360.cn
-0.0.0.0 chrome.360.cn
-0.0.0.0 down.360.cn
-0.0.0.0 hao.360.cn
-0.0.0.0 sd.360.cn
-0.0.0.0 se.360.cn
-0.0.0.0 www.360.cn
-0.0.0.0 dl.360safe.com
-0.0.0.0 down.360safe.com
-0.0.0.0 www.360safe.com
-0.0.0.0 www.duba.com
-0.0.0.0 horux.cz
-0.0.0.0 lktoday.ru
-0.0.0.0 hao.rising.cn
-
-# ------------ END ------------ #

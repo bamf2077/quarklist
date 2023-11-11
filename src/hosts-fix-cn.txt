@@ -1,0 +1,43 @@
+# Binance
+13.248.162.234 ethash.poolbinance.com
+75.2.87.245 sha256.poolbinance.com
+99.83.150.206 sha256.poolbinance.com
+
+# jsDelivr (Fastly)
+151.101.1.229 cdn.jsdelivr.net
+151.101.65.229 cdn.jsdelivr.net
+151.101.129.229 cdn.jsdelivr.net
+151.101.193.229 cdn.jsdelivr.net
+2a04:4e42::485 cdn.jsdelivr.net
+2a04:4e42:200::485 cdn.jsdelivr.net
+2a04:4e42:400::485 cdn.jsdelivr.net
+2a04:4e42:600::485 cdn.jsdelivr.net
+
+# jsDelivr (Cloudflare)
+# 104.16.85.20 cdn.jsdelivr.net
+# 104.16.86.20 cdn.jsdelivr.net
+# 104.16.87.20 cdn.jsdelivr.net
+# 104.16.88.20 cdn.jsdelivr.net
+# 104.16.89.20 cdn.jsdelivr.net
+# 2606:4700::6810:5514 cdn.jsdelivr.net
+# 2606:4700::6810:5614 cdn.jsdelivr.net
+# 2606:4700::6810:5714 cdn.jsdelivr.net
+# 2606:4700::6810:5814 cdn.jsdelivr.net
+# 2606:4700::6810:5914 cdn.jsdelivr.net
+
+# Google Translate
+2404:6800:4008:c13::5a translate.google.com
+2404:6800:4003:c00::5a translate.google.com
+2404:6800:4003:c01::5a translate.google.com
+2404:6800:4008:c13::5a translate.googleapis.com
+2404:6800:4003:c00::5a translate.googleapis.com
+2404:6800:4003:c01::5a translate.googleapis.com
+
+# UNPKG (Cloudflare)
+104.16.122.175 unpkg.com
+104.16.123.175 unpkg.com
+104.16.124.175 unpkg.com
+104.16.125.175 unpkg.com
+104.16.126.175 unpkg.com
+2606:4700::6810:7aaf unpkg.com
+2606:4700::6810:7eaf unpkg.com

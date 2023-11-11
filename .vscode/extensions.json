@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "adguard.adblock",
+    "tommasov.hosts",
+    "foxundermoon.shell-format",
+    "arcanis.vscode-zipfs"
+  ]
+}

@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: QuarkList
-! Version: 2.1.6
-! Last modified: 2022-11-18T02:00+07:00
+! Version: 2.1.8
+! Last modified: 2023-11-11T17:00+07:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://n2o.io/go?page=quarklist
 ! License: https://github.com/francis-zhao/quarklist/blob/master/LICENSE
@@ -42,6 +42,7 @@
 ||eiv.baidu.com^
 ||mobads.baidu.com^
 ||pos.baidu.com^
+||push.zhanzhang.baidu.com^
 ||share.baidu.com^
 ||spcode.baidu.com^
 ||cpro.baidustatic.com^
@@ -606,6 +607,8 @@ ithome.com##.yj_d
 ithome.com###hd_float
 ithome.com###side_func
 ithome.com###lapin
+ithome.com###ilikeit
+ithome.com###ilikeit-div
 
 ! Greasy Fork
 greasyfork.org###script-show-info-ad
@@ -613,6 +616,9 @@ greasyfork.org###script-show-info-ad
 ! Sina 新浪
 finance.sina.com.cn##.blk_APP_JSl
 finance.sina.com.cn##.blk_APP_JSr
+
+! SubHD 字幕站
+subhd.tv,subhd.cc,subhd.me##a[href^="https://www.douyin.com"]
 
 ! Jiemian 界面新闻
 jiemian.com###ad_header_top

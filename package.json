@@ -1,41 +1,17 @@
 {
   "name": "quarklist",
-  "version": "2.1.5",
+  "version": "2.1.8",
   "homepage": "https://n2o.io/go?page=quarklist",
   "license": "MIT",
   "author": "Francis Zhao <francis@n2o.io>",
   "repository": "github:francis-zhao/quarklist",
   "scripts": {
-    "prettier": "prettier --write ."
+    "aglint": "aglint",
+    "prettier": "prettier --write --cache --cache-location .yarn/cache/.prettiercache --cache-strategy metadata .",
+    "yarn-sdks-vscode": "yarn dlx @yarnpkg/sdks vscode"
   },
   "devDependencies": {
-    "prettier": "^2.5.1"
-  },
-  "prettier": {
-    "printWidth": 80,
-    "tabWidth": 2,
-    "useTabs": false,
-    "singleQuote": true,
-    "trailingComma": "all",
-    "endOfLine": "lf",
-    "overrides": [
-      {
-        "files": [
-          "*.md",
-          "*.markdown"
-        ],
-        "options": {
-          "singleQuote": false
-        }
-      },
-      {
-        "files": [
-          "*.py"
-        ],
-        "options": {
-          "tabWidth": 4
-        }
-      }
-    ]
+    "@adguard/aglint": "^2.0.6",
+    "prettier": "^3.0.3"
   }
 }
